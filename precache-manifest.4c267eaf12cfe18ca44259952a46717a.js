@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c492eb0cf8921ebe15b0aab9664675f",
+    "revision": "7b6f9d79a2ee884d5e4a15ac78cf3028",
     "url": "/worldtime/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/worldtime/static/css/2.3b6f1bda.chunk.css"
   },
   {
-    "revision": "b3650b73689168022663",
+    "revision": "52405c3cd6cc30ad7759",
     "url": "/worldtime/static/css/main.58c5a1d9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/worldtime/static/js/2.a78bc555.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3650b73689168022663",
-    "url": "/worldtime/static/js/main.8f1923dd.chunk.js"
+    "revision": "52405c3cd6cc30ad7759",
+    "url": "/worldtime/static/js/main.92c57b69.chunk.js"
   },
   {
     "revision": "46e7da2ea835e6b4bd2b",
